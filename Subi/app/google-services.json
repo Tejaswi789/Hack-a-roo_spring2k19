@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "964413334268",
+    "firebase_url": "https://subi-e9edf.firebaseio.com",
+    "project_id": "subi-e9edf",
+    "storage_bucket": "subi-e9edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964413334268:android:1f055f0eac458ede",
+        "android_client_info": {
+          "package_name": "com.example.subi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964413334268-gbnp0vdl0i8e8k80qv6l6ol7upnlnau0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subi",
+            "certificate_hash": "8d581f2cafeb2f331b3762dc3de998de572c1d10"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdg-pJF4WkbpTiw460ZIMH-Z3fw1eEPas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964413334268-3pnkeo1e08begd588gdjiqsaum0do6vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
